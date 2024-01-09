@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FlightTicketReservation.Enums
 {
-    internal enum FlightStatus
+    public enum FlightStatus
     {
         LastCall,
         Departed,

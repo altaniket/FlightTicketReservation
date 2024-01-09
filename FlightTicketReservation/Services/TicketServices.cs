@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FlightTicketReservation.Enums
+namespace FlightTicketReservation.Services
 {
-    public enum Nationality
+    public class TicketServices
     {
-        TurkishCitizen,
-        Foreign
     }
 }
